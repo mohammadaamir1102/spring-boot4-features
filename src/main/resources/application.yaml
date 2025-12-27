@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: spring-boot-4-features
+
+app:
+  message-type: sms
